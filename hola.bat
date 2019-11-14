@@ -1,5 +1,5 @@
 @echo off
 color 36
-echo HOLA MUNDO
+echo PENSE QUE YA TE HABIA OLVIDAO
 pause>nul
 exi
